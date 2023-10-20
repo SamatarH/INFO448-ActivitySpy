@@ -1,0 +1,32 @@
+2023-10-19 23:53:34.356 14565-14565 tar.activitysp          edu.uw.ischool.samatar.activityspy   W  Accessing hidden method Landroid/os/Trace;->asyncTraceBegin(JLjava/lang/String;I)V (light greylist, reflection)
+2023-10-19 23:53:34.356 14565-14565 tar.activitysp          edu.uw.ischool.samatar.activityspy   W  Accessing hidden method Landroid/os/Trace;->asyncTraceEnd(JLjava/lang/String;I)V (light greylist, reflection)
+2023-10-19 23:53:34.356 14565-14565 tar.activitysp          edu.uw.ischool.samatar.activityspy   W  Accessing hidden method Landroid/os/Trace;->traceCounter(JLjava/lang/String;I)V (light greylist, reflection)
+2023-10-19 23:53:34.364 14565-14635 tar.activitysp          edu.uw.ischool.samatar.activityspy   W  Accessing hidden method Landroid/graphics/FontFamily;-><init>()V (light greylist, reflection)
+2023-10-19 23:53:34.364 14565-14635 tar.activitysp          edu.uw.ischool.samatar.activityspy   W  Accessing hidden method Landroid/graphics/FontFamily;->addFontFromAssetManager(Landroid/content/res/AssetManager;Ljava/lang/String;IZIII[Landroid/graphics/fonts/FontVariationAxis;)Z (light greylist, reflection)
+2023-10-19 23:53:34.364 14565-14635 tar.activitysp          edu.uw.ischool.samatar.activityspy   W  Accessing hidden method Landroid/graphics/FontFamily;->addFontFromBuffer(Ljava/nio/ByteBuffer;I[Landroid/graphics/fonts/FontVariationAxis;II)Z (light greylist, reflection)
+2023-10-19 23:53:34.364 14565-14635 tar.activitysp          edu.uw.ischool.samatar.activityspy   W  Accessing hidden method Landroid/graphics/FontFamily;->freeze()Z (light greylist, reflection)
+2023-10-19 23:53:34.364 14565-14635 tar.activitysp          edu.uw.ischool.samatar.activityspy   W  Accessing hidden method Landroid/graphics/FontFamily;->abortCreation()V (light greylist, reflection)
+2023-10-19 23:53:34.364 14565-14635 tar.activitysp          edu.uw.ischool.samatar.activityspy   W  Accessing hidden method Landroid/graphics/Typeface;->createFromFamiliesWithDefault([Landroid/graphics/FontFamily;Ljava/lang/String;II)Landroid/graphics/Typeface; (light greylist, reflection)
+2023-10-19 23:53:39.550 14565-14641 ProfileInstaller        edu.uw.ischool.samatar.activityspy   D  Installing profile for edu.uw.ischool.samatar.activityspy
+2023-10-19 23:53:56.934 14565-14565 App Pause               edu.uw.ischool.samatar.activityspy   I  on Pause event fired
+2023-10-19 23:53:56.937 14565-14634 EGL_emulation           edu.uw.ischool.samatar.activityspy   D  eglMakeCurrent: 0x71bcd03da0: ver 3 0 (tinfo 0x71c4d33d80)
+2023-10-19 23:53:56.938 14565-14565 App Stop                edu.uw.ischool.samatar.activityspy   I  on Stop event fired
+2023-10-19 23:53:59.709 14565-14565 App Start               edu.uw.ischool.samatar.activityspy   I  on Start event fired
+2023-10-19 23:53:59.709 14565-14565 App Resume              edu.uw.ischool.samatar.activityspy   I  on Resume event fired
+2023-10-19 23:53:59.745 14565-14634 EGL_emulation           edu.uw.ischool.samatar.activityspy   D  eglMakeCurrent: 0x71bcd03da0: ver 3 0 (tinfo 0x71c4d33d80)
+2023-10-19 23:54:04.710 14565-14565 App Pause               edu.uw.ischool.samatar.activityspy   I  on Pause event fired
+2023-10-19 23:54:04.713 14565-14634 EGL_emulation           edu.uw.ischool.samatar.activityspy   D  eglMakeCurrent: 0x71bcd03da0: ver 3 0 (tinfo 0x71c4d33d80)
+2023-10-19 23:54:04.714 14565-14565 App Stop                edu.uw.ischool.samatar.activityspy   I  on Stop event fired
+2023-10-19 23:54:10.551 14565-14565 App Start               edu.uw.ischool.samatar.activityspy   I  on Start event fired
+2023-10-19 23:54:10.551 14565-14565 App Resume              edu.uw.ischool.samatar.activityspy   I  on Resume event fired
+2023-10-19 23:54:10.585 14565-14634 EGL_emulation           edu.uw.ischool.samatar.activityspy   D  eglMakeCurrent: 0x71bcd03da0: ver 3 0 (tinfo 0x71c4d33d80)
+2023-10-19 23:56:24.169 14565-14565 App Pause               edu.uw.ischool.samatar.activityspy   I  on Pause event fired
+2023-10-19 23:56:24.179 14565-14634 EGL_emulation           edu.uw.ischool.samatar.activityspy   D  eglMakeCurrent: 0x71bcd03da0: ver 3 0 (tinfo 0x71c4d33d80)
+2023-10-19 23:56:24.183 14565-14565 App Stop                edu.uw.ischool.samatar.activityspy   I  on Stop event fired
+2023-10-19 23:56:25.246 14565-14565 App Start               edu.uw.ischool.samatar.activityspy   I  on Start event fired
+2023-10-19 23:56:25.246 14565-14565 App Resume              edu.uw.ischool.samatar.activityspy   I  on Resume event fired
+2023-10-19 23:56:25.278 14565-14634 EGL_emulation           edu.uw.ischool.samatar.activityspy   D  eglMakeCurrent: 0x71bcd03da0: ver 3 0 (tinfo 0x71c4d33d80)
+2023-10-19 23:56:26.404 14565-14565 App Pause               edu.uw.ischool.samatar.activityspy   I  on Pause event fired
+2023-10-19 23:56:26.409 14565-14634 EGL_emulation           edu.uw.ischool.samatar.activityspy   D  eglMakeCurrent: 0x71bcd03da0: ver 3 0 (tinfo 0x71c4d33d80)
+2023-10-19 23:56:26.409 14565-14565 App Stop                edu.uw.ischool.samatar.activityspy   I  on Stop event fired
+---------------------------- PROCESS ENDED (14565) for package edu.uw.ischool.samatar.activityspy ----------------------------
